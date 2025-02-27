@@ -61,3 +61,13 @@ function sortearAmigo(){
 }
 
 
+function reiniciarJuego(){
+
+    //Se reinicia arreglo
+    amigosIngresados = [];
+
+    //Se reinician valores en la Página
+    document.getElementById("listaAmigos").innerHTML="";
+    document.getElementById('resultado').innerHTML="";
+
+}

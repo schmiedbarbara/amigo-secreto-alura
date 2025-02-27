@@ -1,2 +1,2 @@
-# amigo-secreto-alura
+# amigo-secreto
 Alura. 

@@ -119,9 +119,23 @@ button {
     background-color: var(--color-tertiary);
     color: var(--color-text);
     border-radius: 0 25px 25px 0;
+    justify-content: space-between;
+    
 }
 
 .button-add:hover {
+    background-color: #a1a1a1;
+}
+
+.button-add-reinicio{
+    background-color: var(--color-tertiary);
+    color: var(--color-text);
+    justify-content: space-between;
+    
+    
+}
+
+.button-add-reinicio:hover{
     background-color: #a1a1a1;
 }
 
